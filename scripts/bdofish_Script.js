@@ -4789,7 +4789,7 @@ for (var i = 0; i < markerEyespotPuffer.length; i++) {
         [15,15,'Grade','등급'],
         [16,16,'RESET','초기화'],
         [17,17,'Click <b>icon</b> to<br><b>show location</b>','<b>아이콘</b> 클릭 시<br><b>위치</b> 표시'],
-        [18,18,'Please contact me if there is an error in the map.<br>bdofish.com@gmail.com</b> / Discord: <b>bdofish#4645</b>','만약 지도에 오류가 있다면 알려주세요.<br>bdofish.com@gmail.com</b> / 디스코드: <b>bdofish#4645</b>'],
+        [18,18,'Please contact me if there is an error in the map.<br><b>bdofish.com@gmail.com</b> / Discord: <b>bdofish#4645</b>','만약 지도에 오류가 있다면 알려주세요.<br><b>bdofish.com@gmail.com</b> / 디스코드: <b>bdofish#4645</b>'],
     ];
 
 
