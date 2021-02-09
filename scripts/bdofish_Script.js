@@ -4998,7 +4998,7 @@ for (var i = 0; i < markerEyespotPuffer.length; i++) {
 
 
     var fishRequest = new XMLHttpRequest();
-        fishRequest.open('GET', 'https://raw.githubusercontent.com/bdofish/bdofishdata/master/fish-data.json');
+        fishRequest.open('GET', 'https://raw.githubusercontent.com/bdofish/bdofish.github.io/master/scripts/fish-data.json');
         fishRequest.onload = function() {
             fishJsonData = JSON.parse(fishRequest.responseText);
             fishJson = fishJsonData;
@@ -5008,7 +5008,7 @@ for (var i = 0; i < markerEyespotPuffer.length; i++) {
 
 
     var noticeRequest = new XMLHttpRequest();
-        noticeRequest.open('GET', 'https://raw.githubusercontent.com/bdofish/bdofishdata/master/notice.json');
+        noticeRequest.open('GET', 'https://raw.githubusercontent.com/bdofish/bdofish.github.io/master/scripts/notice.json');
         noticeRequest.onload = function() {
             noticeJsonData = JSON.parse(noticeRequest.responseText);
             noticeJson = noticeJsonData;
