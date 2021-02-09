@@ -1,0 +1,20 @@
+[
+    {
+        "date_KR": "2020-11-12",
+        "date_EN": "12 November 2020",
+        "notice_KR": "- <b>오딜리타</b> 지역의 영문 노드 이름을 업데이트하였습니다.<br>- <b>줄라티아 해역</b>의 물고기 리스트에 <b>두억시니 놀래기</b>와 <b>붉은 대게</b>를 추가하였습니다.<br>- <b>랏 항구</b> 내에 있는 까마귀 주화 교환원 NPC를 추가하였습니다.<br>- <b>랏 항구</b> 근처에 있는 <b>레크라샨</b>, <b>골드몬트 해적단</b> 지역을 추가하였습니다.<br><br>(한국 서버에만 해당됩니다.)<br>- <b>랏 항구</b> 근처에 있는 <b>검은무쇠이빨</b> 지역을 추가하였습니다.",
+        "notice_EN": "- Updated node name in English of <b>O'dyllita</b> region.<br>- Added <b>Red-breasted Wrasse</b> and <b>Red Snow Crab</b> in the fish list of <b>Zulatia Sea</b>.<br>- Added crow coin exchange NPC in <b>Port Ratt</b>.<br>- Added <b>Lekrashan</b>, <b>Goldmont Pirate</b> areas near <b>Port Ratt</b>.<br><br>(Only available in the KR server)<br>- Added <b>Black Rust</b> area near <b>Port Ratt</b>."
+    },
+    {
+        "date_KR": "2020-07-01",
+        "date_EN": "01 July 2020",
+        "notice_KR": "해외에서는 아직 <b>오딜리타</b> 지역이 업데이트되지 않았기 때문에, 영어 버전의 노드 이름이 정확하지 않을 수 있습니다. 이 부분은 오딜리타 업데이트 이후에 수정될 예정입니다.",
+        "notice_EN": "Since the O'dyllita region is not released outside of the KR server yet, some of the node names in English may not be correct. This will be fixed after O'dyllita is released."
+    },
+    {
+        "date_KR": "2020-07-01",
+        "date_EN": "01 July 2020",
+        "notice_KR": "BDO Fish Map 이 오픈하였습니다.",
+        "notice_EN": "BDO Fish Map is open."
+    }
+]
