@@ -3374,6 +3374,48 @@
         "tooltip_EN": ""
     },
     {
+        "file": "Pufferfish",
+        "class": "etc sg yw",
+        "grade": "#EDC845",
+        "type_KR": "제작 재료<br>(이벤트)",
+        "type_EN": "Crafting<br>Materials<br>(Event)",
+        "method_KR": "갈매기",
+        "method_EN": "Seagull",
+        "name_KR": "황복",
+        "name_EN": "Pufferfish",
+        "price": "<i class=\"fas fa-lock fixedPrice\"></i>500,000",
+        "tooltip_KR": "",
+        "tooltip_EN": ""
+    },
+    {
+        "file": "PlumpPufferfish",
+        "class": "etc sg or",
+        "grade": "#FD6B49",
+        "type_KR": "제작 재료<br>(이벤트)",
+        "type_EN": "Crafting<br>Materials<br>(Event)",
+        "method_KR": "갈매기",
+        "method_EN": "Seagull",
+        "name_KR": "통통하게 살이 오른 황복",
+        "name_EN": "Plump Pufferfish",
+        "price": "<i class=\"fas fa-lock fixedPrice\"></i>1,000,000",
+        "tooltip_KR": "",
+        "tooltip_EN": ""
+    },
+    {
+        "file": "ScaledRedEgg",
+        "class": "etc sg or",
+        "grade": "#FD6B49",
+        "type_KR": "제작 재료<br>(이벤트)",
+        "type_EN": "Crafting<br>Materials<br>(Event)",
+        "method_KR": "갈매기",
+        "method_EN": "Seagull",
+        "name_KR": "비늘이 덮인 붉은 알",
+        "name_EN": "Scaled Red Egg",
+        "price": "<i class=\"fas fa-lock fixedPrice\"></i>10,000,000",
+        "tooltip_KR": "",
+        "tooltip_EN": ""
+    },
+    {
         "file": "GiantMantaRay",
         "class": "etc hp yw",
         "grade": "#EDC845",
