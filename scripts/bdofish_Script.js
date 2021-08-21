@@ -3180,6 +3180,7 @@ var markerNode1 = [
     [49.8, -101.2, "Nada Island", "나다 섬"],
     [49.5, -93.3, "Zagam Island", "자감 섬"],
     [-3.8, 13.94, "Feltron Island", "펠트런 섬"],
+    [2.90, 13.51, "Slippery Scallywags Isle", "팔딱생선 해적단 섬"],
     [-68.64, -14.35, "Starry Midnight Port", "깊은 밤의 항구"],
     [-67.71, -17.4, "Talibahr's Rope", "탈리바르의 끈"],
     [-69.45, -12.88, "Thornwood Castle", "가시나무 성"],
@@ -3475,6 +3476,7 @@ var markerIslandYShape = [
     [49.8, -101.2, "Nada Island", "나다 섬"],
     [49.5, -93.3, "Zagam Island", "자감 섬"],
     [-3.8, 13.94, "Feltron Island", "펠트런 섬"],
+    [2.90, 13.51, "Slippery Scallywags Isle", "팔딱생선 해적단 섬"],
 ];
 for (var i = 0; i < markerIslandYShape.length; i++) {
     marker = new L.marker([markerIslandYShape[i][0], markerIslandYShape[i][1]], {icon: IconNode1Small})
@@ -4792,15 +4794,15 @@ for (var i = 0; i < markerEyespotPuffer.length; i++) {
         [18,18,'Please contact me if there is an error in the map.<br><b>bdofish.com@gmail.com</b> / Discord: <b>bdofish#4645</b>','만약 지도에 오류가 있다면 알려주세요.<br><b>bdofish.com@gmail.com</b> / 디스코드: <b>bdofish#4645</b>'],
     ];
 
-
+    
     var OTarray = [
         ['<span class="FlexAlignCenter"><img class="markerIcon" src="icons/'],
         ['<span style="padding-left:3px;">'],
         ['<th class="seagullspottable"><div class="FlexAlignCenter"><img class="seagullspotfish" '],
         ['<span class="seagullspottext">'],
         [4,4,
-        ' style="left: -47px;">※Added node icons on <b>Oquilla\'s Eye</b>, <b>Crow\'s Nest</b> and <b>Feltron Island</b> to help locate them. (Currently these are not included in-game yet.)',
-        ' style="left: -39px;">※보기 편하도록 <b>오킬루아의 눈</b>, <b>까마귀 둥지</b> 그리고 <b>펠트런 섬</b>에 노드 아이콘을 추가했습니다. (현재 게임 내에는 없습니다.)'],
+        ' style="left: -47px;">※Added node icons on <b>Oquilla\'s Eye</b>, <b>Crow\'s Nest</b>, <b>Feltron Island</b> and <b>Slippery Scallywags Isle</b> to help locate them. (Currently these are not included in-game yet.)',
+        ' style="left: -39px;">※보기 편하도록 <b>오킬루아의 눈</b>, <b>까마귀 둥지</b>, <b>펠트런 섬</b> 그리고 <b>팔딱생선 해적단 섬</b>에 노드 아이콘을 추가했습니다. (현재 게임 내에는 없습니다.)'],
         [5,5,
         ' style="left: -89px;">※Click on a fishing zone for a fixed fish table, and click the fish icon on the table to search in the fish list.<br><br>※\'(no fish)\' zone includes both null cast water zones and trash-only table zones.',
         ' style="left: -64px;">※낚시 지역을 클릭하면 물고기 표를 고정시킬 수 있고, 표시된 물고기 아이콘을 클릭하면 물고기 목록에서 검색이 됩니다.<br><br>※\'(물고기 없음)\' 지역은 낚시 캐스팅이 되지 않는 물 지역과, 잡동사니만 낚이는 지역 모두를 포함합니다.'],
