@@ -3318,6 +3318,20 @@
         "tooltip_EN": ""
     },
     {
+        "file": "SilverBeltfish",
+        "class": "etc fs yw",
+        "grade": "#EDC845",
+        "type_KR": "제작 재료<br>(이벤트)",
+        "type_EN": "Crafting<br>Materials<br>(Event)",
+        "method_KR": "낚시",
+        "method_EN": "Fishing",
+        "name_KR": "은빛 갈치",
+        "name_EN": "Silver Beltfish",
+        "price": "<i class=\"fas fa-lock fixedPrice\"></i>500,000",
+        "tooltip_KR": "",
+        "tooltip_EN": ""
+    },
+    {
         "file": "SilverHornFish",
         "class": "etc fs yw",
         "grade": "#EDC845",
